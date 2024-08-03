@@ -1,6 +1,7 @@
 .bashrc
 .cache/
 .config/
+.gitconfig
 .ipynb_checkpoints/
 .ipython/
 .jupyter/
